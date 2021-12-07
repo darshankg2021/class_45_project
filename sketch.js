@@ -9,7 +9,7 @@ function preload(){
 }
 
 function setup(){
-    var canvas = createCanvas(700,500);
+    var canvas = createCanvas(2000, 910);
 
     bg = createSprite(width/2, height/2, 20, 20);
     bg.addImage(bgImg);
